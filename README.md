@@ -11,6 +11,7 @@ Make sure you have an active internet connection for the libraries to download a
 
 
 Spanish
+
 El programa que creamos es un instalador de licencias de Windows en Python. Tiene una interfaz gráfica donde el usuario elige una licencia y luego se ejecutan comandos para activarla en el sistema operativo. También se puede mostrar un logo en la ventana de la interfaz.
 
 Para ejecutar el programa, asegúrate de tener instaladas las siguientes bibliotecas:
